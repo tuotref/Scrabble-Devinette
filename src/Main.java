@@ -1,3 +1,4 @@
+import GUI.Quiz;
 
 public class Main {
 
